@@ -1,0 +1,3 @@
+This front-end snipet is made using HTML and CSS only using no frameworks. 
+It displays three content boxes arranged so that it works responsively and adjusts itself in any device we want to see it in.
+The code can we referred to see how without any framework we can display responsive front-end.
